@@ -46,8 +46,8 @@ npm start
 ```
 
 ## Usage
-- **Register a new account or log in with existing credentials.
-- **Explore posts from other users, like, comment, and share.
-- **Create your own posts and engage with your friends' content.
-- **Customize your profile and connect with friends.
+- Register a new account or log in with existing credentials.
+- Explore posts from other users, like, comment, and share.
+- Create your own posts and engage with your friends' content.
+- Customize your profile and connect with friends.
 
