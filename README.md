@@ -18,3 +18,36 @@ Connecto is a full-stack social media application inspired by Facebook, aimed at
 
 ```bash
 git clone https://github.com/yourusername/connecto.git
+```
+
+2. Install dependencies:
+
+```bash
+cd connecto
+npm install
+```
+
+3. Set up environment variables:
+
+Create a .env file in the root directory and add the following:
+
+```bash
+PORT=3000
+MONGODB_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+```
+
+Replace your_mongodb_uri and your_jwt_secret with your MongoDB connection URI and JWT secret key respectively.
+
+
+4. Start the development server:
+```bash
+npm start
+```
+
+## Usage
+- **Register a new account or log in with existing credentials.
+- **Explore posts from other users, like, comment, and share.
+- **Create your own posts and engage with your friends' content.
+- **Customize your profile and connect with friends.
+
